@@ -9,8 +9,8 @@ public class ConverterChain {
 
     public ConverterChain() {
         this.mileConverter = new UnitDecorator(new ExponentialDecorator(new RoundDecorator(new MileHandler())), "Miles");
-        this.yardConverter = new UnitDecorator(new ExponentialDecorator(new RoundDecorator(new MileHandler())), "Yards");
-        this.footConverter = new UnitDecorator(new ExponentialDecorator(new RoundDecorator(new MileHandler())), "Feet");
+        this.yardConverter = new UnitDecorator(new ExponentialDecorator(new RoundDecorator(new YardHandler())), "Yards");
+        this.footConverter = new UnitDecorator(new ExponentialDecorator(new RoundDecorator(new FootHandler())), "Feet");
     }
 
     public FormattedConverter getMileConverter() {
