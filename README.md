@@ -9,7 +9,6 @@ This Java application demonstrates the use of the Chain of Responsibility (CoR) 
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
-- [License](#license)
 
 ## Introduction
 
