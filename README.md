@@ -49,3 +49,16 @@ The project is structured as follows:
 
 This project does not have any external dependencies. It is written in pure Java.
 
+## UML Diagram
+![Assignment 4](https://github.com/UMMEATHIYA/OOP_Assignment4_Decorator_Example/assets/43459908/99820dbc-afaa-41a6-a267-fe119dec56f1)
+
+## Screenshots
+
+![image](https://github.com/UMMEATHIYA/OOP_Assignment4_Decorator_Example/assets/43459908/502b0759-d821-47d5-9830-f675a9097d1b)
+                              Figure 1.1 -> Kilometer to Miles conversion
+
+![image](https://github.com/UMMEATHIYA/OOP_Assignment4_Decorator_Example/assets/43459908/4c4f8ea6-c977-4ded-bbff-737e228bf45b)
+Figure 1.2 -> Kilometer to Yard conversion
+
+![image](https://github.com/UMMEATHIYA/OOP_Assignment4_Decorator_Example/assets/43459908/4ff2994f-e13b-4abd-835e-8edd9017142a)
+Figure 1.3 -> Kilometer to Foot conversion
